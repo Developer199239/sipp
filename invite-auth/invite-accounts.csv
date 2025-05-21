@@ -1,0 +1,7 @@
+SEQUENTIAL
+# Username: 1000-1009
+# Password: 1234
+# SIP Proxy: 10.0.0.10, Destination Number: 9196
+9100;192.168.0.114;[authentication username=9100 password=9100];9101;
+9102;192.168.0.114;[authentication username=9102 password=9102];9101;
+9103;192.168.0.114;[authentication username=9103 password=9103];9101;

@@ -1,0 +1,5 @@
+SEQUENTIAL
+# Username: 1000-1009
+# Password: 1234
+# SIP Proxy: 10.0.0.10
+9100;192.168.0.114;[authentication username=9100 password=9100]
