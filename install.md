@@ -8,6 +8,7 @@ cd /opt
 sudo git clone https://github.com/SIPp/sipp.git
 cd sipp
 
+git submodule update --init --recursive
 sudo cmake .
 sudo make -j$(nproc)
 sudo make install
